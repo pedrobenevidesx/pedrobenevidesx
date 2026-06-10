@@ -1,5 +1,5 @@
 # 💫 About Me:
-Oi, eu sou o Pedro! 👋 Estudante de ADS apaixonado por tecnologia e com o coração no backend. Gosto de entender como as coisas funcionam por baixo dos panos — APIs, lógica de servidor, esse universo todo. Atualmente estudando JavaScript e Node.js e sempre aprendendo algo novo no caminho. 🚀
+Oi, eu sou o Pedro! 👋 Estudante de ADS apaixonado por tecnologia e com o coração no backend. Gosto de entender como as coisas funcionam por baixo dos panos — APIs, lógica de servidor, esse universo todo.
 
 
 ## 🌐 Socials:
