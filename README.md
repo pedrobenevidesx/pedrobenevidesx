@@ -2,7 +2,7 @@
 👋 Olá! Eu sou o Pedro.
 Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e desenvolvimento de software.
 Tenho me aprofundado principalmente no desenvolvimento backend, explorando tecnologias como JavaScript, Node.js, TypeScript, APIs e bancos de dados.
-Gosto de entender como as coisas realmente funcionam por trás do código, desde uma simples requisição HTTP até a comunicação entre aplicações e bancos de dados.
+Gosto de entender como as coisas realmente funcionam por trás do código.
 
 
 ## 🌐 Socials:
